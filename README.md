@@ -63,6 +63,9 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo, solía l
 - JavaScript.
 - React.
 - Vite.
+- Python (básico)
+- API Blender (básico)
+- C++ (básico)
 - Ortografía
 - Redacción
 - Corrección de estilo
