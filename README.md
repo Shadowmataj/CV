@@ -1,7 +1,7 @@
 ## Christian Mata Juárez. 
-Edad:  30 años. 
-Correo: christianmataj1@gmail.com 
-Celular: 5568897613 
+- Edad:  30 años.
+- Correo: christianmataj1@gmail.com
+- Celular: 5568897613 
 
 ------------
 
@@ -78,3 +78,4 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo, solía l
 - Programación Backend (cursando) 
 
 ## [Repositorios GitHub](https://github.com/Shadowmataj?tab=repositories "Repositorios GitHub")
+
