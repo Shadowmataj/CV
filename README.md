@@ -1,4 +1,7 @@
 ## Christian Mata Juárez. 
+
+[![Christian Mata Juárez](https://avatars.githubusercontent.com/u/102202491?v=4 "Christian Mata Juárez")](https://avatars.githubusercontent.com/u/102202491?v=4 "Christian Mata Juárez")
+
 - Edad:  30 años.
 - Correo: christianmataj1@gmail.com
 - Celular: 5568897613 
