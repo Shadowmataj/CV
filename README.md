@@ -58,7 +58,7 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo, solía l
 ------------
 
 
-### Conocimientos:
+### Conocimientos DEV:
 
 
 - HTML.
@@ -69,6 +69,10 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo, solía l
 - Python (básico)
 - API Blender (básico)
 - C++ (básico)
+
+------------
+
+### Otros conocimientos: 
 - Ortografía
 - Redacción
 - Corrección de estilo
