@@ -84,7 +84,7 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo, solía l
 ### Certificaciones: 
 - Desarrollo Web Flex
 - React Js Flex
-- JavaScript Flex (pendiente de certificado)
+- JavaScript Flex
 - Programación Backend (cursando) 
 
 ## [Repositorios GitHub](https://github.com/Shadowmataj?tab=repositories "Repositorios GitHub")
