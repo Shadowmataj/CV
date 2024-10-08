@@ -10,14 +10,12 @@
 
 
 ### Sobre mí:
-Me gusta ser una persona activa, dedicada y responsable en el ámbito laboral. Me clasifico a mí  mismo como emprendedor, atento al detalle, autónomo, pulcro y perfeccionista. Amante del  deporte y la escritura, tengo conocimientos en ortografía y redacción avanzada, proceso editorial  básico, así como en lógica,lenguajes de programación y desarrollo web. Entre mis gustos acérrimos se encuentran los  videojuegos, la música, programar, los arcos y viajar.
+Me gusta ser una persona activa, dedicada y responsable en el ámbito laboral. Me clasifico a mí mismo como emprendedor, atento al detalle, autónomo, pulcro y perfeccionista. Amante del deporte y la escritura, tengo conocimientos en ortografía y redacción avanzada, proceso editorial básico, así como en lógica, lenguajes de programación y desarrollo web. Entre mis gustos acérrimos se encuentran los  videojuegos, la música, programar, los arcos y viajar.
 
 ------------
 
-
-
 ### Objetivo profesional: 
-Mi objetivo es compartir mis conocimientos y aprender de los demás para mejorar en los puntos  donde presente flaquezas y consolidar aquéllos en los que soy fuerte, al hacerlo podré brindar el  apoyo a la empresa para que logre sus metas de la manera más eficiente.
+Mi objetivo es compartir mis conocimientos y aprender de los demás para mejorar en los puntos  donde presente flaquezas y consolidar aquéllos en los que soy fuerte, al hacerlo podré brindar el apoyo a la empresa para que logre sus metas de la manera más eficiente. De igual forma, estoy emprendiendo un nuevo objetivo en mi desarrollo profesional entrando en el mundo de la programación y desarrollo web.
 
 ------------
 
@@ -29,12 +27,6 @@ Mi objetivo es compartir mis conocimientos y aprender de los demás para mejorar
 
 ##### Instituto Politécnico Nacional.
 - Carrera: Ingeniería en computación (trunca 3er semestre)
-
-### Experiencia laboral: 
-##### Asociación de Tiro con Arco de la UNAM (febrero de 2014 – diciembre de 2016). 
-Entrenador: introducir a los atletas al deporte en los niveles principiante e intermedio. Coordinar  grupos y horarios de fines de semana. Elaboración de planes de  desarrollo para los deportistas y presentar los avances ante la dirección encargada del deporte en la universidad. A lo largo de los casi tres años de trabajo logré, junto con mis compañeros, conformar  un grupo cuyo número de integrantes fluctuaba entre las 45 y 50 personas.
-
-------------
 
 
 ##### Revista de la Universidad de México (marzo 2018 – septiembre 2018). Servicio social. 
@@ -50,29 +42,36 @@ Redactor y analista de contenido E-commerce: Durante mi periodo en esta empresa 
 
 
 ##### Galileo SAPI de CV (octubre 2020 - actualmente).
-###### Ninja jr/sr (octubre 2020 - febrero 2023)
+###### Agente de atención a clientes jr/sr (octubre 2020 - febrero 2023)
 Colaborador de primera línea en el área de atención a clientes. Comencé con medio tiempo hasta llegar a tiempo completo, con buenas evaluaciones a lo largo de esos dos años y medio. Manejando CRM y distintos canales: WA, chats, redes, correos, llamadas, form, entre otros.
-###### Gerente ninja (febrero 2023 - actualmente)
-Hoy en día soy uno de los gerentes de atención a clientes de Galileo, solía llevar las marcas de B&F MX(en conjunto con mis compañeras), B&F CL, B&F CO, Bombavista, además del área de envíos a domicilio, pero actualmente sólo manejo B&F MX (en conjunto), Bombavista, y el área de envíos a domicilio. Estos últimos tres años me han permitido conocer a detalle la empresa y de igual forma establecer buenas relaciones con las demás áreas. 
+###### Gerente de atención a clientes (febrero 2023 - actualmente)
+Hoy en día soy uno de los gerentes de atención a clientes de Galileo SA de CV, como responsable llevé a un equipo grande (40 personas) para las marcas de Ben & Frank México, Ben & Frank Chile, Ben & Frank Colombia y Bombavista, además del área de envíos a domicilio, aunque actualmente sólo manejo Ben & Frank México, Bombavista y envíos a domicilio. 
 
 ------------
 
 
 ### Conocimientos DEV:
 
+[========]
+
 
 - HTML.
 - CSS.
 - JavaScript.
 - React.
+- Next.js.
 - Vite.
-- Python (básico)
-- API Blender (básico)
-- C++ (básico)
+- Node.
+- Express.
+- git/GitHub.
+- Python (básico).
+- API Blender (básico).
+- C++ (básico).
 
 ------------
 
 ### Otros conocimientos: 
+
 - Ortografía
 - Redacción
 - Corrección de estilo
@@ -85,7 +84,6 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo, solía l
 - Desarrollo Web Flex
 - React Js Flex
 - JavaScript Flex
-- Programación Backend (cursando) 
+- Programación Backend.
 
 ## [Repositorios GitHub](https://github.com/Shadowmataj?tab=repositories "Repositorios GitHub")
-
