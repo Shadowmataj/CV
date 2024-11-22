@@ -64,7 +64,7 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo SA de CV,
 - Node.
 - Express.
 - git/GitHub.
-- Python (básico).
+- Python.
 - API Blender (básico).
 - C++ (básico).
 
