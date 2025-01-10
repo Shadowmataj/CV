@@ -59,12 +59,14 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo SA de CV,
 - CSS.
 - JavaScript.
 - React.
-- Next.js.
 - Vite.
 - Node.
 - Express.
 - git/GitHub.
 - Python.
+- Python flask.
+- Python django.
+- Docker (básico).
 - API Blender (básico).
 - C++ (básico).
 
