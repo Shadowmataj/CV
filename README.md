@@ -2,7 +2,6 @@
 
 [![Christian Mata Juárez](https://avatars.githubusercontent.com/u/102202491?v=4 "Christian Mata Juárez")](https://avatars.githubusercontent.com/u/102202491?v=4 "Christian Mata Juárez")
 
-- Edad:  30 años.
 - Correo: christianmataj1@gmail.com
 - Celular: 5568897613 
 
@@ -63,9 +62,7 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo SA de CV,
 - Node.
 - Express.
 - git/GitHub.
-- Python.
-- Python flask.
-- Python django.
+- Python (flask/django).
 - Docker (básico).
 - API Blender (básico).
 - C++ (básico).
@@ -87,5 +84,8 @@ Hoy en día soy uno de los gerentes de atención a clientes de Galileo SA de CV,
 - React Js Flex
 - JavaScript Flex
 - Programación Backend.
+- Git &Github certificate.
+- Django certificate
+
 
 ## [Repositorios GitHub](https://github.com/Shadowmataj?tab=repositories "Repositorios GitHub")
