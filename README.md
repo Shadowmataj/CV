@@ -92,6 +92,7 @@ Mi objetivo es aportar valor a la empresa a través de mis habilidades, comparti
 -   [Linux](./Certificados/Linux_certificate.pdf)
 -   [Carrera FullStack en Español](./Certificados/CarreraFullStackEspañol.png)
 -   [FullStack Career in English](./Certificados/FullStackCareerEnglish.png)
+-   [FullStack Career in English](./Certificados/SQL_and_PostgreSQL.pdf)
 
 ---
 
